@@ -1,1 +1,3 @@
 #This file has aws cli commands
+
+aws s3 ls
